@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quotes App</string>
+    <string name="fetching_data">Fetching data…</string>
+    <string name="data_fetched_successfully">Data fetched successfully!</string>
+    <string name="an_error_occurred">An Error Occurred</string>
+    <string name="fetch_quotes">Fetch Quotes</string>
+    <string name="delete_quotes">Delete Quotes</string>
+    <string name="current_quotes">Current Quotes: %1$s</string>
+</resources>
